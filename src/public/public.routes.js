@@ -1,7 +1,7 @@
 (function() {
     'use strict';
     
-    angular.module('index')
+    angular.module('public')
     .config(routeConfig);
     
     /**
