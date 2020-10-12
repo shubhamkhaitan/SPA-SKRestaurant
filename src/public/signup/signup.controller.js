@@ -34,5 +34,5 @@
 
 
     signupController.$inject = ['MenuService'];
-    angular.module('index').controller('SignupController', signupController);
+    angular.module('public').controller('SignupController', signupController);
 })();
